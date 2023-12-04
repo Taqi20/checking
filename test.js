@@ -10,6 +10,6 @@ function mul(a,b){
     return a*b;
 }
 
-console.log(sum(2,2));
-console.log(sub(2,2));
-console.log(mul(19,99));
+console.log(sum(139,2));
+console.log(sub(290130,2));
+console.log(mul(112999,99));
